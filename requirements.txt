@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 streamlit
 networkx
 matplotlib
+=======
+streamlit
+networkx
+matplotlib
+>>>>>>> a21054199c1f0c4e5842b235b5e7d4870eab9475
 pandas
